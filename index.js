@@ -1,12 +1,5 @@
 const firebaseConfig = {
-  apiKey: "AIzaSyBAf0skD-8rZ4Nuv0EUiRTR3ITt5jtc8qI",
-  authDomain: "sparkz-2023.firebaseapp.com",
-  databaseURL: "https://sparkz-2023-default-rtdb.firebaseio.com",
-  projectId: "sparkz-2023",
-  storageBucket: "sparkz-2023.appspot.com",
-  messagingSenderId: "422188327792",
-  appId: "1:422188327792:web:058e37ca07460d15e8a5b5",
-  measurementId: "G-EYRVF47YWE"
+ 
 };
 
 // initialize firebase
